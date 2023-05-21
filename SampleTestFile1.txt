@@ -6,3 +6,4 @@ this is some text
 git commit revert 1This is Comparison
 
 This is a stash lecture, change in file 1
+This is statsh lecture, change for untracked files in file 1
