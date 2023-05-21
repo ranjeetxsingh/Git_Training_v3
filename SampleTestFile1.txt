@@ -5,3 +5,4 @@ this is some text
 
 git commit revert 1This is Comparison
 
+This is a stash lecture, change in file 1
